@@ -1,1 +1,0 @@
-"TrabahoGo/"  rm -r --cached TrabahoGo/git add .gitignoregit commit -m "Ignore TrabahoGo directory"git push origin main
